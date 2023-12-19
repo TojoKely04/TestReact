@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://testspring-production-2582.up.railway.app",
+  "proxy": "http://testspring-production-2582.up.railway.app",
   "eslintConfig": {
     "extends": [
       "react-app",
